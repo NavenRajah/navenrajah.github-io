@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Downloads/portfolio_website-main/portfolio_website-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "navenrajah.github-io",
+		"liveServer.settings.port": 5501
+	}
+}
